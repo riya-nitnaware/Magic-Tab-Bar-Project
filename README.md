@@ -1,11 +1,11 @@
-# 🌟 Iconic Magic Tab Bar
+🌟 Iconic Magic Tab Bar
 
 A **modern, animated tab navigation bar** built completely with **HTML and CSS**.  
 The Magic Tab Bar provides smooth glowing effects, hover animations, and a clean layout that makes switching between sections feel interactive and professional. This project is ideal for portfolios, web apps, or any website where a unique navigation experience is needed.
 
 
 
-## ✨ Key Highlights
+ ✨ Key Highlights
 - **Pure HTML & CSS only** – no JavaScript, no external images.
 - **Five navigation items**: Home, Search, Notification, Favorites, and Profile.
 - **Glowing selector effect** – an animated circular highlight that smoothly moves to the active tab.
@@ -15,14 +15,14 @@ The Magic Tab Bar provides smooth glowing effects, hover animations, and a clean
 
 
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 - **HTML5** → for the structure and tab selection (radio inputs + labels).  
 - **CSS3** → for animations, gradients, hover effects, glowing highlights, and custom icons.  
 
 
 
-## 📂 Project Files
-```
+ 📂 Project Files
+
 
 Magic-Tab-Bar/
 │── index.html   # HTML file with tab bar structure
@@ -31,7 +31,7 @@ Magic-Tab-Bar/
 
 
 
-## 📖 How It Works
+ 📖 How It Works
 1. Each tab is created using a **hidden radio button** paired with a clickable **label**.  
    - Only one tab can be active at a time because all radios share the same `name`.  
    - The first tab (Home) is selected by default.  
@@ -46,19 +46,18 @@ Magic-Tab-Bar/
 4. Hovering over a tab increases brightness and shows a soft glow around the text and icon.  
 
 
-## ▶️ Usage Instructions
+ ▶️ Usage Instructions
 1. Clone this repository:
-   ```bash
+   bash
    git clone https://github.com/your-username/Magic-Tab-Bar.git
-````
+
 
 2. Open the project folder.
 3. Run the `index.html` file in any modern browser.
 4. Click or hover on the tabs to see the glowing transitions in action.
 
----
 
-## 📱 Tabs Included
+📱 Tabs Included
 
 * 🏠 **Home** – represented by a house icon.
 * 🔍 **Search** – magnifying glass icon.
@@ -68,7 +67,7 @@ Magic-Tab-Bar/
 
 
 
-## 🌟 Demo Preview
+🌟 Demo Preview
 
 The navigation bar has a dark background with a glowing selector spotlight that follows the active tab.
 Each tab icon glows in its own unique color:
@@ -81,7 +80,7 @@ Each tab icon glows in its own unique color:
 
 
 
-## 🔮 Future Enhancements
+🔮 Future Enhancements
 
 * Make the tab bar fully **mobile-responsive** with smaller layouts.
 * Add **JavaScript logic** to dynamically load content for each tab.
@@ -90,13 +89,13 @@ Each tab icon glows in its own unique color:
 
 
 
-## 🧑‍💻 Author
+🧑‍💻 Author
 
 Developed with ❤️ and creativity by [Riya Nitnaware (CS23015)](https://github.com/riya-nitnaware).
 
 
 
-## 📜 License
+📜 License
 
 This project is released under the **MIT License**.
 You are free to use, modify, and share it with proper attribution.
@@ -104,7 +103,3 @@ You are free to use, modify, and share it with proper attribution.
 
 
 
-
-
-Do you also want me to **add a GitHub Pages live demo setup section** so that visitors can preview your tab bar online without downloading?
-```
