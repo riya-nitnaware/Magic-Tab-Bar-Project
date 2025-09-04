@@ -1,0 +1,7 @@
+Let’s create an Iconic Magic Tab Bar using HTML and CSS. This stylish tab navigation will feature smooth hover effects, glowing highlights, and a clean layout to make switching between sections look magical.
+
+We’ll use:
+
+HTML to structure the tab bar and icons.
+CSS to style it with animations, hover effects, and glowing transitions.
+This project is perfect for websites, portfolios, or apps where you want a unique and interactive navigation bar. The Magic Tab Bar combines simplicity with eye-catching effects to keep your design modern and engaging.
