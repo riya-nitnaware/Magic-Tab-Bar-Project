@@ -92,7 +92,7 @@ Each tab icon glows in its own unique color:
 
 ## 🧑‍💻 Author
 
-Developed with ❤️ and creativity by [Your Name](https://github.com/your-username).
+Developed with ❤️ and creativity by [Riya Nitnaware (CS23015)](https://github.com/riya-nitnaware).
 
 
 
